@@ -1,4 +1,4 @@
-# python-automation-projects which includes:
+
 
 * Multiclipboard program which comprises of building application that allows storing of multiple things from our clipboard and loading them to our cliboard.
    - It supports passing a command to save, load and also list all the items on the clipboard.
