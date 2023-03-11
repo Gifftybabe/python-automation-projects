@@ -1,6 +1,6 @@
 # python-automation-projects which includes:
 
-## Multiclipboard program which comprises of building application that allows storing of multiple things from our clipboard and loading them to our cliboard.
+* Multiclipboard program which comprises of building application that allows storing of multiple things from our clipboard and loading them to our cliboard.
    - It supports passing a command to save, load and also list all the items on the clipboard.
    - It is encouraged to run the code using a command prompt rather than a run button for easy execution.
 ## Weather fetcher program which basically works with a generated API and fetches the day-tooday weather information based on a city name provided.
